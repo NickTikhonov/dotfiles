@@ -1,0 +1,12 @@
+[user]
+	name = Nick Tikhonov 
+	email = ndtikhonov@gmail.com
+
+[alias]
+	co = checkout
+	s = status
+	p = pull
+	cm = commit
+	aa = add --all
+	b = branch
+	cob = checkout -b
