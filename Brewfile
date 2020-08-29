@@ -1,0 +1,12 @@
+brew "fzf"
+brew "git"
+brew "hugo"
+brew "macvim"
+brew "make"
+brew "pyenv"
+brew "tig"
+brew "tmux"
+brew "yarn"
+brew "imagemagick"
+
+cask "google-chrome"

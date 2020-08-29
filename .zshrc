@@ -32,6 +32,7 @@ alias vimrc="vim $HOME/.vimrc";
 alias bashrc="vim $HOME/.zshrc && source $HOME/.zshrc";
 alias bp="bashrc"
 alias vrc="vimrc"
+alias tmuxp="vim ~/.tmux.conf && tmux source-file ~/.tmux.conf"
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
 # Directory Aliases
